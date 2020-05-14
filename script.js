@@ -13,7 +13,7 @@ $(document).ready(function(){
 	    	name:"Confucius"
 	    },
 	    {
-	    	quote:"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+	    	quote:"The most certain way to succeed is always to try just one more time.",
 	    	name:"Thomas A. Edison"
 	    },
 	    {
